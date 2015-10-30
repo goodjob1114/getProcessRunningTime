@@ -2,9 +2,9 @@
 get process Running Time (seconds) wrapped by 'ps' command
 
 ### preparation
-git clone
-or 
-wget 
+git clone or 
+
+`wget https://raw.githubusercontent.com/goodjob1114/getProcessRunningTime/master/getProcessRunningTime`
 
 ### how to use
 `./getProcessRunningTime bash`
