@@ -7,11 +7,12 @@ or
 wget 
 
 ### how to use
-$ ./getProcessRunningTime bash
+`./getProcessRunningTime bash`
 
 ### you can copy to /usr/local/bin as a userspace system command
-$ cp getProcessRunningTime /usr/local/bin
+`cp getProcessRunningTime /usr/local/bin`
 
-,then.. you can run this anywhere
-$ getProcessRunningTime chrome
+,then..  run this command anywhere
+
+`getProcessRunningTime chrome`
 
