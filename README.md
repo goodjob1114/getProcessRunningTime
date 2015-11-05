@@ -10,7 +10,7 @@ git clone or
 `./getProcessRunningTime bash`
 
 ### you can copy to /usr/local/bin as a userspace system command
-`cp getProcessRunningTime /usr/local/bin`
+`sudo wget https://raw.githubusercontent.com/goodjob1114/getProcessRunningTime/master/getProcessRunningTime -O /usr/local/bin/getProcessRunningTime`
 
 ,then..  run this command anywhere
 
